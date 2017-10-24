@@ -1,0 +1,21 @@
+{
+  "name": "node-latex-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Pablo Andrés Dorado Suárez (im@pandres95.me)",
+  "license": "MIT",
+  "dependencies": {
+    "bool.js": "^0.6.2",
+    "booljs-multer": "^0.2.0",
+    "handlebars": "^4.0.11",
+    "latex": "0.0.1",
+    "node-latex": "^2.5.0",
+    "serve-static": "^1.13.1",
+    "uuid": "^3.1.0"
+  }
+}

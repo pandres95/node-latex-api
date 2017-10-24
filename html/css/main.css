@@ -1,0 +1,129 @@
+img {
+	max-width: 100%;
+}
+.quitar-float{
+	float:none;
+}
+.espacio-arriba{
+	margin-top:100px;
+}
+.kaushan-font{
+	font-family: 'Kaushan Script', cursive;
+}
+
+.pacifico-font{
+	font-family: 'Pacifico', cursive;
+}
+
+.grande{
+	font-size: 5em;
+}
+
+.espacio-lateral{
+	margin-right: 1em; 
+}
+
+.mediano{
+	font-size: 3em;
+}
+
+.pequeño{
+	font-size: 1em;
+}
+
+.verde{
+	color: #A8BF12
+}
+.verdeazulado{
+	color:#4BB5C1
+}
+.no-lista li{
+	list-style-type: none;
+}
+
+.se-gris{
+	background-color: #7E8AA2; 
+}
+
+.alinear-arriba{
+	vertical-align: top;
+}
+
+.padding-largo{
+	padding: 5px 10px;
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+}
+.azulito{
+	color: #00AAB5;
+}
+
+.fondo{
+	background-color: #CDE855; 
+}
+
+.verde2{
+	color: #49E83E;
+}
+.negrita{
+	font-weight: bold;
+}
+
+.cafe{
+	color: #493F0B;
+}
+.bcafe{
+	background-color:  #493F0B;
+}
+.bcrema{
+	background-color: #F5F6D4;
+}
+.crema{
+	color: #F5F6D4;
+}
+
+.amarillo{
+	color: #FBD506;
+}
+.blimon{
+    background-color:  #97BF04;
+}
+.bamarillo{
+    background-color: #FFE11A;
+}
+
+.azultr{
+    color: #263248;
+}
+.bazultr{
+    background-color: #263248;
+}
+
+.blanco{
+    background-color: #FFFFFF;
+}
+
+.rojo{
+    color: #F1433F;
+}
+.brojo{
+	background-color: #F1433F;
+}
+.bnaranja{
+    background-color: #FD7400;
+}
+
+.bvino{
+    background-color: #4C1B1B;
+}
+
+.gay{
+    background-color: #FF358B;
+}
+
+.cblanco{
+    color: #FFFFFF;
+}
